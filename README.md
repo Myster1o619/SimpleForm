@@ -1,5 +1,12 @@
 # SimpleForm
 
+### Purpose
+Practice creating a Template Driven Form. Will add to this form as I learn more.
+
+<br>
+
+# SimpleForm
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
 ## Development server
